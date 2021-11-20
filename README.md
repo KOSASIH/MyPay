@@ -1,4 +1,5 @@
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/KOSASIH/MyPay)
+[![DeepSource](https://deepsource.io/gh/KOSASIH/MyPay.svg/?label=active+issues&show_trend=true&token=UQEWWPyaPZMo_qHaTytgCoQG)](https://deepsource.io/gh/KOSASIH/MyPay/?ref=repository-badge)
 
 ## Welcome to MyPay
 MyPay is Software Useful for doing banking activities, and all digital financial transactions, online anywhere, anytime.
