@@ -2,6 +2,7 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/MyPay.svg/?label=active+issues&show_trend=true&token=UQEWWPyaPZMo_qHaTytgCoQG)](https://deepsource.io/gh/KOSASIH/MyPay/?ref=repository-badge)
 
 ## Welcome to MyPay
+
 MyPay is Software Useful for doing banking activities, and all digital financial transactions, online anywhere, anytime.
 You can use the [editor on GitHub](https://github.com/KOSASIH/MyPay/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,7 +16,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
+
 ### Header 3
 
 - Bulleted
