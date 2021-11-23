@@ -1,6 +1,13 @@
 version = 1
 
 [[analyzers]]
+name = "java"
+enabled = true
+
+  [analyzers.meta]
+  runtime_version = "16"
+
+[[analyzers]]
 name = "python"
 enabled = true
 
@@ -51,4 +58,8 @@ enabled = true
 
 [[transformers]]
 name = "autopep8"
+enabled = true
+
+[[transformers]]
+name = "google-java-format"
 enabled = true
